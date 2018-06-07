@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "Comments.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1212,9 +1212,9 @@
             "socialGoogle": false,
             "socialDisqus": false,
             "shortName": "",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1620x1080.jpg",
             "overlay": true,
             "overlayColor": "#7e9b9f",
